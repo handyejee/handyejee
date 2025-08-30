@@ -19,6 +19,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=AWS&logoColor=white)
 
+### 🌟 Open Source Contributions
+- ["Debugging Teams" 개발팀 협업 문화 개선에 관한 기술서적 한국어 번역 기여](https://github.com/ita9naiwa/debuggingteams/pull/3) 
+- [오픈소스 기여 회고 글 보러가기](https://livlogs.vercel.app/blog/retrospect/contributing_opensource) 
+
 ### 📫 Connect with me
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=vercel&link=https://livlogs.vercel.app/)](https://livlogs.vercel.app/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yejee-son/)](https://www.linkedin.com/in/yejee-son)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:handyejee14@gmail.com)](mailto:handyejee14@gmail.com)
